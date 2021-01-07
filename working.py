@@ -1,10 +1,11 @@
-# Sudoku Solver
+##### Sudoku Solver #####
 # Instead of using a method like naive bayes, we use a backtracking method. 
 # The solver puts in a number for every "0" and continues putting numbers for the remaining "0".
 # If it fails at one point, the solver goes back one step and tries another number. 
 
-# Enter your sudoku in the following format.
-# This board is from https://dingo.sbs.arizona.edu/~sandiway/sudoku/examples.html in order to check result. 
+##### How to execute #####
+# 1) Enter your sudoku in the following format. This board is from https://dingo.sbs.arizona.edu/~sandiway/sudoku/examples.html in order to check result. 
+# 2) Run code and check prints
 
 board = [[2,0,0,3,0,0,0,0,0],
         [8,0,4,0,6,2,0,0,3],
