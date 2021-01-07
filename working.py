@@ -60,6 +60,6 @@ def valid(bo, num, pos):
     box_x = pos[1] // 3
     box_y = pos[0] // 3
     
-    for i in range()
+  
     
             
